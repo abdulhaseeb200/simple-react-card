@@ -1,2 +1,8 @@
-# simple-react-card
-A basic React project featuring a beginner-friendly card component with inline styles. The card displays an image, category, title, description, and some additional details like views and comments. Perfect for those new to React and looking to create a simple, functional UI component without advanced styling frameworks.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
